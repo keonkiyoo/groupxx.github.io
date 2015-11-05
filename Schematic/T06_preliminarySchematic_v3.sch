@@ -6,22 +6,22 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="15" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="15" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -30,8 +30,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -39,19 +39,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="14" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="14" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -6156,10 +6156,10 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <part name="C4" library="adafruit" deviceset="C-US" device="C0805K" value="10u"/>
 <part name="C5" library="adafruit" deviceset="C-US" device="C0805K" value="10u"/>
 <part name="R3" library="eagle-ltspice" deviceset="R" device="R0603" value="220"/>
-<part name="LED2" library="adafruit" deviceset="LED" device="CHIPLED_0805" value=" C566C-GFS-CV0Z0792"/>
+<part name="LED2" library="adafruit" deviceset="LED" device="CHIP-LED0805" value="LTST-C171GKT"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
-<part name="Q3" library="SparkFun-DiscreteSemi" deviceset="TRANSISTOR_NPN" device="TO-92-AMMO" value="2n3904"/>
+<part name="Q3" library="SparkFun-DiscreteSemi" deviceset="TRANSISTOR_NPN" device="2N3904" value="2n3904"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="R4" library="eagle-ltspice" deviceset="R" device="R0603" value="500"/>
 <part name="R5" library="eagle-ltspice" deviceset="R" device="R0603" value="100"/>
@@ -6170,7 +6170,7 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <part name="FRAME1" library="frames" deviceset="FRAME_A_L" device="" value="8.5x11"/>
 <part name="POWER" library="con-samtec" deviceset="SSW-102-02-S-S" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
-<part name="LED1" library="adafruit" deviceset="LED" device="CHIPLED_0805" value=" C566C-GFS-CV0Z0792"/>
+<part name="LED1" library="adafruit" deviceset="LED" device="CHIPLED_0805" value="LTST-C171GKT"/>
 <part name="R6" library="eagle-ltspice" deviceset="R" device="R0603" value="220"/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
@@ -6183,7 +6183,7 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <part name="TP6" library="con-hirschmann" deviceset="MPB1" device=""/>
 <part name="TP7" library="con-hirschmann" deviceset="MPB1" device=""/>
 <part name="TP8" library="con-hirschmann" deviceset="MPB1" device=""/>
-<part name="C3" library="eagle-ltspice" deviceset="C" device="C1206" value="100n"/>
+<part name="C3" library="eagle-ltspice" deviceset="C" device="C1005" value="100n"/>
 <part name="TP9" library="con-hirschmann" deviceset="MPB1" device=""/>
 <part name="TP13" library="con-hirschmann" deviceset="MPB1" device=""/>
 <part name="TP17" library="con-hirschmann" deviceset="MPB1" device=""/>
@@ -6214,6 +6214,16 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <part name="SUPPLY8" library="supply2" deviceset="+5V" device=""/>
 <part name="TP10" library="con-hirschmann" deviceset="MPB1" device=""/>
 <part name="X1" library="con-samtec" deviceset="SSW-105-02-S-S" device=""/>
+<part name="X2" library="con-samtec" deviceset="SSW-102-02-S-S" device=""/>
+<part name="SUPPLY9" library="supply2" deviceset="+5V" device=""/>
+<part name="GND14" library="supply1" deviceset="GND" device=""/>
+<part name="SUPPLY10" library="supply2" deviceset="+5V" device=""/>
+<part name="C6" library="eagle-ltspice" deviceset="C" device="C1005" value="100n"/>
+<part name="GND15" library="supply1" deviceset="GND" device=""/>
+<part name="GND16" library="supply1" deviceset="GND" device=""/>
+<part name="R7" library="eagle-ltspice" deviceset="R" device="R0603" value="220"/>
+<part name="LED3" library="adafruit" deviceset="LED" device="CHIP-LED0805" value="LTST-C170KFKT"/>
+<part name="GND17" library="supply1" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -6251,10 +6261,9 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <wire x1="-48.26" y1="132.08" x2="-48.26" y2="106.68" width="0.1524" layer="94" style="dashdot"/>
 <wire x1="-101.6" y1="132.08" x2="-101.6" y2="106.68" width="0.1524" layer="94" style="dashdot"/>
 <text x="-99.06" y="109.22" size="1.778" layer="94">Reset Switch</text>
-<wire x1="-40.64" y1="104.14" x2="-101.6" y2="104.14" width="0.1524" layer="94" style="dashdot"/>
-<wire x1="-40.64" y1="68.58" x2="-101.6" y2="68.58" width="0.1524" layer="94" style="dashdot"/>
-<wire x1="-40.64" y1="104.14" x2="-40.64" y2="68.58" width="0.1524" layer="94" style="dashdot"/>
-<wire x1="-101.6" y1="104.14" x2="-101.6" y2="68.58" width="0.1524" layer="94" style="dashdot"/>
+<wire x1="-48.26" y1="68.58" x2="-101.6" y2="68.58" width="0.1524" layer="94" style="dashdot"/>
+<wire x1="-48.26" y1="106.68" x2="-48.26" y2="68.58" width="0.1524" layer="94" style="dashdot"/>
+<wire x1="-101.6" y1="106.68" x2="-101.6" y2="68.58" width="0.1524" layer="94" style="dashdot"/>
 <text x="-99.06" y="55.88" size="1.778" layer="94">Power Regulator for 5 V &amp; 3 V Output</text>
 <wire x1="17.78" y1="-22.86" x2="-38.1" y2="-22.86" width="0.1524" layer="94" style="dashdot"/>
 <wire x1="-38.1" y1="-22.86" x2="-38.1" y2="-76.2" width="0.1524" layer="94" style="dashdot"/>
@@ -6276,7 +6285,7 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <attribute name="VALUE" x="-15.24" y="45.72" size="1.778" layer="96"/>
 </instance>
 <instance part="CSTCE16M0V53-R0" gate="G$1" x="-7.62" y="53.34" smashed="yes" rot="R270">
-<attribute name="NAME" x="-8.89" y="59.69" size="1.778" layer="95"/>
+<attribute name="NAME" x="-8.89" y="41.91" size="1.778" layer="95"/>
 <attribute name="VALUE" x="-5.08" y="46.99" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="R1" gate="G$1" x="5.08" y="53.34" smashed="yes" rot="R90">
@@ -6363,16 +6372,16 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <attribute name="NAME" x="-90.424" y="28.575" size="1.778" layer="95"/>
 <attribute name="VALUE" x="-90.424" y="23.749" size="1.778" layer="96"/>
 </instance>
-<instance part="R3" gate="G$1" x="-35.56" y="68.58" smashed="yes" rot="R270">
-<attribute name="NAME" x="-34.1884" y="72.39" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="-38.481" y="72.39" size="1.778" layer="96" rot="R270"/>
+<instance part="R3" gate="G$1" x="-30.48" y="71.12" smashed="yes" rot="R270">
+<attribute name="NAME" x="-29.1084" y="74.93" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="-33.401" y="74.93" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="LED2" gate="G$1" x="-35.56" y="60.96" smashed="yes">
-<attribute name="NAME" x="-32.004" y="56.388" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-29.845" y="56.388" size="1.778" layer="96" rot="R90"/>
+<instance part="LED2" gate="G$1" x="-30.48" y="63.5" smashed="yes">
+<attribute name="NAME" x="-26.924" y="58.928" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-24.765" y="58.928" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="GND5" gate="1" x="-35.56" y="53.34" smashed="yes">
-<attribute name="VALUE" x="-38.1" y="50.8" size="1.778" layer="96"/>
+<instance part="GND5" gate="1" x="-30.48" y="55.88" smashed="yes">
+<attribute name="VALUE" x="-33.02" y="53.34" size="1.778" layer="96"/>
 </instance>
 <instance part="GND6" gate="1" x="-88.9" y="119.38" smashed="yes">
 <attribute name="VALUE" x="-91.44" y="116.84" size="1.778" layer="96"/>
@@ -6555,8 +6564,8 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <instance part="GND13" gate="1" x="5.08" y="-60.96" smashed="yes">
 <attribute name="VALUE" x="2.54" y="-63.5" size="1.778" layer="96"/>
 </instance>
-<instance part="SUPPLY2" gate="+5V" x="-22.86" y="76.2" smashed="yes">
-<attribute name="VALUE" x="-24.765" y="79.375" size="1.778" layer="96"/>
+<instance part="SUPPLY2" gate="+5V" x="-17.78" y="78.74" smashed="yes">
+<attribute name="VALUE" x="-19.685" y="81.915" size="1.778" layer="96"/>
 </instance>
 <instance part="SUPPLY4" gate="+5V" x="-66.04" y="40.64" smashed="yes">
 <attribute name="VALUE" x="-67.945" y="43.815" size="1.778" layer="96"/>
@@ -6581,6 +6590,43 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <instance part="X1" gate="-3" x="154.94" y="-5.08" rot="R180"/>
 <instance part="X1" gate="-4" x="154.94" y="-2.54" rot="R180"/>
 <instance part="X1" gate="-5" x="154.94" y="0" rot="R180"/>
+<instance part="X2" gate="-1" x="157.48" y="-30.48" smashed="yes" rot="R180">
+<attribute name="VALUE" x="147.32" y="-38.1" size="1.778" layer="96" rot="R180"/>
+<attribute name="NAME" x="160.528" y="-31.242" size="1.524" layer="95"/>
+</instance>
+<instance part="X2" gate="-2" x="157.48" y="-27.94" smashed="yes" rot="R180">
+<attribute name="NAME" x="160.528" y="-28.702" size="1.524" layer="95"/>
+</instance>
+<instance part="SUPPLY9" gate="+5V" x="152.4" y="-22.86" smashed="yes">
+<attribute name="VALUE" x="150.495" y="-19.685" size="1.778" layer="96"/>
+</instance>
+<instance part="GND14" gate="1" x="152.4" y="-35.56" smashed="yes">
+<attribute name="VALUE" x="149.86" y="-38.1" size="1.778" layer="96"/>
+</instance>
+<instance part="SUPPLY10" gate="+5V" x="-7.62" y="88.9" smashed="yes">
+<attribute name="VALUE" x="-9.525" y="92.075" size="1.778" layer="96"/>
+</instance>
+<instance part="C6" gate="G$1" x="-17.78" y="58.42" smashed="yes">
+<attribute name="NAME" x="-16.256" y="58.801" size="1.778" layer="95"/>
+<attribute name="VALUE" x="-16.256" y="53.721" size="1.778" layer="96"/>
+</instance>
+<instance part="GND15" gate="1" x="2.54" y="66.04" smashed="yes">
+<attribute name="VALUE" x="0" y="63.5" size="1.778" layer="96"/>
+</instance>
+<instance part="GND16" gate="1" x="-17.78" y="48.26" smashed="yes">
+<attribute name="VALUE" x="-20.32" y="45.72" size="1.778" layer="96"/>
+</instance>
+<instance part="R7" gate="G$1" x="30.48" y="96.52" smashed="yes">
+<attribute name="NAME" x="26.67" y="97.8916" size="1.778" layer="95"/>
+<attribute name="VALUE" x="26.67" y="93.599" size="1.778" layer="96"/>
+</instance>
+<instance part="LED3" gate="G$1" x="38.1" y="96.52" smashed="yes" rot="R90">
+<attribute name="NAME" x="42.672" y="100.076" size="1.778" layer="95" rot="R180"/>
+<attribute name="VALUE" x="42.672" y="102.235" size="1.778" layer="96" rot="R180"/>
+</instance>
+<instance part="GND17" gate="1" x="43.18" y="91.44" smashed="yes">
+<attribute name="VALUE" x="40.64" y="88.9" size="1.778" layer="96"/>
+</instance>
 </instances>
 <busses>
 <bus name="BU[0..4]">
@@ -6636,7 +6682,8 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <wire x1="5.08" y1="86.36" x2="5.08" y2="88.9" width="0.1524" layer="91"/>
 <junction x="15.24" y="86.36"/>
 <wire x1="-73.66" y1="121.92" x2="15.24" y2="121.92" width="0.1524" layer="91"/>
-<wire x1="15.24" y1="121.92" x2="15.24" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="15.24" y1="121.92" x2="15.24" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="15.24" y1="96.52" x2="15.24" y2="86.36" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="121.92" x2="104.14" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="104.14" y1="121.92" x2="104.14" y2="-25.4" width="0.1524" layer="91"/>
 <junction x="15.24" y="121.92"/>
@@ -6644,6 +6691,9 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <wire x1="-35.56" y1="-25.4" x2="-35.56" y2="-53.34" width="0.1524" layer="91"/>
 <pinref part="AVR" gate="-2" pin="1"/>
 <wire x1="-35.56" y1="-53.34" x2="-25.4" y2="-53.34" width="0.1524" layer="91"/>
+<pinref part="R7" gate="G$1" pin="1"/>
+<wire x1="25.4" y1="96.52" x2="15.24" y2="96.52" width="0.1524" layer="91"/>
+<junction x="15.24" y="96.52"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -6725,6 +6775,26 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <wire x1="0" y1="-53.34" x2="5.08" y2="-53.34" width="0.1524" layer="91"/>
 <wire x1="5.08" y1="-53.34" x2="5.08" y2="-58.42" width="0.1524" layer="91"/>
 <pinref part="GND13" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="X2" gate="-1" pin="1"/>
+<wire x1="154.94" y1="-30.48" x2="152.4" y2="-30.48" width="0.1524" layer="91"/>
+<pinref part="GND14" gate="1" pin="GND"/>
+<wire x1="152.4" y1="-30.48" x2="152.4" y2="-33.02" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="C3" gate="G$1" pin="2"/>
+<pinref part="GND15" gate="1" pin="GND"/>
+</segment>
+<segment>
+<pinref part="C6" gate="G$1" pin="2"/>
+<pinref part="GND16" gate="1" pin="GND"/>
+<wire x1="-17.78" y1="53.34" x2="-17.78" y2="50.8" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="LED3" gate="G$1" pin="C"/>
+<pinref part="GND17" gate="1" pin="GND"/>
+<wire x1="43.18" y1="93.98" x2="43.18" y2="96.52" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$8" class="0">
@@ -6820,28 +6890,21 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <net name="+5V" class="0">
 <segment>
 <pinref part="R3" gate="G$1" pin="1"/>
-<wire x1="-35.56" y1="73.66" x2="-22.86" y2="73.66" width="0.1524" layer="91"/>
-<pinref part="R2" gate="G$1" pin="2"/>
-<wire x1="0" y1="81.28" x2="-12.7" y2="81.28" width="0.1524" layer="91"/>
-<wire x1="-12.7" y1="76.2" x2="-12.7" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="-30.48" y1="76.2" x2="-17.78" y2="76.2" width="0.1524" layer="91"/>
 <pinref part="U1" gate="G$1" pin="AVCC"/>
 <wire x1="17.78" y1="76.2" x2="2.54" y2="76.2" width="0.1524" layer="91"/>
-<wire x1="2.54" y1="76.2" x2="-12.7" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="2.54" y1="76.2" x2="-17.78" y2="76.2" width="0.1524" layer="91"/>
 <pinref part="C3" gate="G$1" pin="1"/>
 <junction x="2.54" y="76.2"/>
-<pinref part="U1" gate="G$1" pin="VCC"/>
-<wire x1="17.78" y1="73.66" x2="17.78" y2="68.58" width="0.1524" layer="91"/>
-<wire x1="17.78" y1="68.58" x2="2.54" y2="68.58" width="0.1524" layer="91"/>
-<wire x1="2.54" y1="68.58" x2="-12.7" y2="68.58" width="0.1524" layer="91"/>
-<wire x1="-12.7" y1="68.58" x2="-12.7" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="-12.7" y1="76.2" x2="-12.7" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="-12.7" y1="73.66" x2="-22.86" y2="73.66" width="0.1524" layer="91"/>
-<junction x="-22.86" y="73.66"/>
-<junction x="-12.7" y="76.2"/>
-<junction x="-12.7" y="73.66"/>
-<pinref part="C3" gate="G$1" pin="2"/>
-<junction x="2.54" y="68.58"/>
+<junction x="-17.78" y="76.2"/>
 <pinref part="SUPPLY2" gate="+5V" pin="+5V"/>
+<pinref part="U1" gate="G$1" pin="VCC"/>
+<wire x1="17.78" y1="73.66" x2="12.7" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="73.66" x2="12.7" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="60.96" x2="-17.78" y2="60.96" width="0.1524" layer="91"/>
+<pinref part="C6" gate="G$1" pin="1"/>
+<junction x="-17.78" y="60.96"/>
+<wire x1="-17.78" y1="60.96" x2="-17.78" y2="76.2" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="1"/>
@@ -6871,6 +6934,18 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <pinref part="AVR" gate="-1" pin="1"/>
 <wire x1="0" y1="-48.26" x2="5.08" y2="-48.26" width="0.1524" layer="91"/>
 <pinref part="SUPPLY5" gate="+5V" pin="+5V"/>
+</segment>
+<segment>
+<pinref part="X2" gate="-2" pin="1"/>
+<wire x1="154.94" y1="-27.94" x2="152.4" y2="-27.94" width="0.1524" layer="91"/>
+<pinref part="SUPPLY9" gate="+5V" pin="+5V"/>
+<wire x1="152.4" y1="-27.94" x2="152.4" y2="-25.4" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="R2" gate="G$1" pin="2"/>
+<wire x1="0" y1="81.28" x2="-7.62" y2="81.28" width="0.1524" layer="91"/>
+<pinref part="SUPPLY10" gate="+5V" pin="+5V"/>
+<wire x1="-7.62" y1="81.28" x2="-7.62" y2="86.36" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$5" class="0">
@@ -7104,6 +7179,12 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <wire x1="142.24" y1="0" x2="152.4" y2="0" width="0.1524" layer="91"/>
 </segment>
 </net>
+<net name="N$9" class="0">
+<segment>
+<pinref part="LED3" gate="G$1" pin="A"/>
+<pinref part="R7" gate="G$1" pin="2"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>
@@ -7118,6 +7199,8 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <approved hash="208,1,149.86,88.9,+5V,sup,,,,"/>
 <approved hash="208,1,147.32,119.38,+5V,sup,,,,"/>
 <approved hash="208,1,5.08,-48.26,+5V,sup,,,,"/>
+<approved hash="208,1,152.4,-25.4,+5V,sup,,,,"/>
+<approved hash="208,1,-7.62,86.36,+5V,sup,,,,"/>
 </errors>
 </schematic>
 </drawing>
