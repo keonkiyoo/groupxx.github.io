@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.3.0">
+<eagle version="6.3">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -6133,7 +6133,8 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0" drill="0">
+<class number="0" name="default" width="0.3048" drill="0.508">
+<clearance class="0" value="0.254"/>
 </class>
 </classes>
 <parts>
@@ -7192,7 +7193,6 @@ Source: http://download.siliconexpert.com/pdfs/2005/02/24/Semi_Ap/2/VSH/Resistor
 <approved hash="208,1,-66.04,5.08,+3V3,out,,,,"/>
 <approved hash="208,1,-66.04,7.62,+3V3,sup,,,,"/>
 <approved hash="208,1,-88.9,-33.02,+3V3,sup,,,,"/>
-<approved hash="208,1,-22.86,73.66,+5V,sup,,,,"/>
 <approved hash="208,1,-66.04,35.56,+5V,out,,,,"/>
 <approved hash="208,1,-66.04,38.1,+5V,sup,,,,"/>
 <approved hash="208,1,147.32,53.34,+5V,sup,,,,"/>
