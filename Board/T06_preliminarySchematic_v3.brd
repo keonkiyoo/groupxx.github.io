@@ -146,6 +146,8 @@
 <wire x1="0" y1="80" x2="0" y2="0" width="0" layer="20"/>
 <text x="57.15" y="43.815" size="1.778" layer="25" rot="R90">TO6_SmartCane
 Shadman, Keon, Dusan, Nathan</text>
+<text x="32.385" y="19.685" size="1.016" layer="25">3v3</text>
+<text x="32.385" y="6.985" size="1.016" layer="25">5v</text>
 </plain>
 <libraries>
 <library name="con-samtec">
