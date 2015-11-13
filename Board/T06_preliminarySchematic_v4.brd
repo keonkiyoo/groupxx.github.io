@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.3.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -37,7 +37,7 @@
 <layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
 <layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
@@ -2240,7 +2240,6 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="10.6172" y1="15.0876" x2="10.4394" y2="14.5288" width="0.3048" layer="16"/>
 <wire x1="21.59" y1="48.895" x2="20.3454" y2="48.895" width="0.3048" layer="1"/>
 <wire x1="6.4008" y1="48.7426" x2="6.35" y2="49.26" width="0.3048" layer="1"/>
-<wire x1="13.9446" y1="69.5452" x2="13.97" y2="71.535" width="0.3048" layer="1"/>
 <wire x1="23.8506" y1="45.085" x2="24.384" y2="45.1866" width="0.3048" layer="1"/>
 <wire x1="30.734" y1="22.0726" x2="30.734" y2="17.3228" width="0.3048" layer="1"/>
 <wire x1="30.4546" y1="16.637" x2="30.734" y2="22.0726" width="0.3048" layer="1"/>
@@ -2402,10 +2401,10 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="6.3627" y1="46.3423" x2="6.35" y2="46.3296" width="1.016" layer="1"/>
 <wire x1="6.35" y1="46.3296" x2="6.35" y2="39.37" width="1.016" layer="1"/>
 <wire x1="6.35" y1="39.37" x2="4.445" y2="39.37" width="1.016" layer="1"/>
-<wire x1="13.97" y1="47.625" x2="13.97" y2="67.31" width="1.016" layer="1"/>
-<wire x1="13.97" y1="66.675" x2="13.97" y2="63.92" width="1.016" layer="1"/>
-<wire x1="13.97" y1="67.31" x2="13.97" y2="66.675" width="0" layer="19" extent="1-1"/>
-<wire x1="6.35" y1="46.355" x2="6.35" y2="46.3296" width="0" layer="19" extent="1-1"/>
+<wire x1="13.97" y1="47.625" x2="13.97" y2="62.23" width="1.016" layer="1"/>
+<wire x1="13.97" y1="62.23" x2="13.97" y2="62.865" width="1.016" layer="1"/>
+<wire x1="13.97" y1="62.865" x2="13.97" y2="63.92" width="1.016" layer="1"/>
+<wire x1="6.35" y1="46.3296" x2="6.35" y2="46.355" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$5">
 <contactref element="R5" pad="1"/>
